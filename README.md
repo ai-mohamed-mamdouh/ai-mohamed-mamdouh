@@ -8,6 +8,13 @@
 <h3>𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒂𝒕 𝑭𝒂𝒄𝒖𝒍𝒕𝒚 𝒐𝒇 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆. 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 & 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆.
 <br>𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒎𝒂𝒓𝒕 𝒎𝒐𝒅𝒆𝒍𝒔 𝒕𝒐 𝒔𝒐𝒍𝒗𝒆 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔.</h3>
 
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ai-mohamed-mamdouh-74043b331/" target="_blank">
+    <img src="https://img.shields.io/badge/🎯%20Open%20to-Internships-0077B5" height="45"/>
+  </a>
+</div>
+<br>
 
 <hr>
 
