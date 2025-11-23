@@ -1,35 +1,77 @@
 <!--[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+<div align="center">
 
-### Languages
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Mohamed+Mamdouh;Machine+Learning+%7C+Data+Science;Faculty+of+AI+-+Menoufia+University" alt="Typing SVG" />
+</a>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
-### Web
-![Html](https://img.shields.io/badge/Html-black?logo=html5&logoColor=white)
-![Html](https://img.shields.io/badge/Css-black?logo=Css&logoColor=white)
-### Technologies
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+<hr>
+<br>
 
-### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+<h1>🛠 Skills</h1>
 
-### Cybersecurity Projects
+| Languages | Web | Technologies |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/-Python-306998?logo=Python&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" height="30"/> | <img src="https://img.shields.io/badge/TensorFlow_%7C_DL-FF6F00?logo=TensorFlow&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Scikit_Learn_%7C_ML-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Flask_%7C_Deploy-000000?logo=Flask&logoColor=white" height="30"/> |
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+<br>
+<hr/>
+<br>
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+  <h1>🚀 Projects</h1>
+</div>
+
+### 📊 Data Science 
+
+| Project | Type | Description |
+| :--- | :---: | :--- |
+| [![](https://img.shields.io/badge/-💻%20LapTop%20Price-000)](https://github.com/adamalston/v2) | ![](https://img.shields.io/badge/Regression-3776AB) | Analysis of laptop specifications and price prediction models. |
+| [![](https://img.shields.io/badge/-🫀%20Smart%20Health%20Analysis-000)](https://github.com/adamalston/v2) | ![](https://img.shields.io/badge/Classification-F7931E) | Healthcare data analysis for smart diagnosis. |
+
+<br>
+
+### 🧠 Deep Learning 
+
+| Project | Architecture | Description |
+| :--- | :---: | :--- |
+| [![](https://img.shields.io/badge/-🧠%20BrainTumor(MRI)-000)](https://github.com/adamalston/Heartbleed) | ![](https://img.shields.io/badge/CNN-FF6F00) | MRI Classification model for Brain Tumor detection. |
+
+<br>
+<hr/>
+<br>
+
+<div align="center">
+
+  <h1>🏆 Achievements</h1>
+  
+  <br>
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQGJmUqumrmJ9w/feedshare-shrink_2048_1536/B4EZT.s.3dH0Ao-/0/1739439995821?e=1765411200&v=beta&t=R4_MjY47DxqQRp1g8r3gqY3CKbKEbAr_ht5esNPsNo8" height="350" alt="Benha Hackathon"/>
+  <br>
+  <h3>3rd Place</h3>
+  <p>Benha Smart Education Hackathon</p>
+
+  <br><br>
+  <br/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQEEl-rrAePJ_A/feedshare-shrink_800/B4EZnUlUItGYAk-/0/1760208178497?e=1765411200&v=beta&t=UwWnpWqKZNgquym7mBgZPVkLIHirUPpFtPr956U2oAc" height="350" alt="NASA Space Apps"/>
+  <br>
+  <h3>Global Nominee</h3>
+  <p>NASA Space Apps Shibin El Kom 2025</p>
+
+
+
+</div>
+
+
+
+<br>
+<hr/>
+<br>
+
+<div align="center">
+  <h3>📫 Connect with me</h3>
+  <br>
+  <a href="https://www.linkedin.com/in/mohamed-mamdouh-xxxxx/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" alt="LinkedIn"/></a> &nbsp; &nbsp; &nbsp; <a href="https://wa.me/201xxxxxxxxx" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40" width="40" alt="WhatsApp"/></a>
+</div>
