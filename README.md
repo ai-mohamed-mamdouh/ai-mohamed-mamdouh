@@ -47,7 +47,7 @@
 
 | Project | Architecture | Description |
 | :--- | :---: | :--- |
-| [![](https://img.shields.io/badge/-🧠%20BrainTumor(MRI)-000)](https://github.com/adamalston/Heartbleed) | ![](https://img.shields.io/badge/CNN-FF6F00) | MRI Classification model for Brain Tumor detection. |
+| [![](https://img.shields.io/badge/-🧠%20BrainTumor(MRI)-000)](https://github.com/ai-mohamed-mamdouh/BrainTumor-MRI-#) | ![](https://img.shields.io/badge/CNN-FF6F00) | MRI Classification model for Brain Tumor detection. |
 
 <br>
 <hr/>
