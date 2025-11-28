@@ -38,8 +38,8 @@
 
 | Project | Type | Description |
 | :--- | :---: | :--- |
-| [![](https://img.shields.io/badge/-💻%20LapTop%20Price-000)](https://github.com/adamalston/v2) | ![](https://img.shields.io/badge/Regression-3776AB) | Analysis of laptop specifications and price prediction models. |
-| [![](https://img.shields.io/badge/-🫀%20Smart%20Health%20Analysis-000)](https://github.com/adamalston/v2) | ![](https://img.shields.io/badge/Classification-F7931E) | Healthcare data analysis for smart diagnosis. |
+| [![](https://img.shields.io/badge/-💻%20LapTop%20Price-000)](#) | ![](https://img.shields.io/badge/Regression-3776AB) | Analysis of laptop specifications and price prediction models. |
+| [![](https://img.shields.io/badge/-🫀%20Smart%20Health%20Analysis-000)](#) | ![](https://img.shields.io/badge/Classification-F7931E) | Healthcare data analysis for smart diagnosis. |
 
 <br>
 
