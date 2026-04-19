@@ -11,7 +11,9 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/ai-mohamed-mamdouh-74043b331/" target="_blank">
-    <img src="https://img.shields.io/badge/🎯%20Open%20to-Internships-0077B5" height="45"/>
+    <!-- <img src="https://img.shields.io/badge/𝑶𝒑𝒆𝒏%20𝒕𝒐_%7C_𝑰𝒏𝒕𝒆𝒓𝒏𝒔𝒉𝒊𝒑%20%26%20𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒐𝒏𝒔-0A66C2?logo=linkedin&logoColor=white" height="30"/> -->
+    <img src="https://img.shields.io/badge/Open%20to-Internship%20%26%20Competitions-000000?logo=linkedin&logoColor=white" height="30"/>
+    <!-- <img src="https://img.shields.io/badge/🎯%20Open%20to-Internships-0077B5" height="45"/> -->
   </a>
 </div>
 <br>
