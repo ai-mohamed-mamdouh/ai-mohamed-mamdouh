@@ -51,6 +51,7 @@
 | :--- | :---: | :--- |
 | [![](https://img.shields.io/badge/-🧠%20BrainTumor(MRI)-000)](https://github.com/ai-mohamed-mamdouh/BrainTumor-MRI-#) | ![](https://img.shields.io/badge/CNN-FF6F00) | MRI Classification model for Brain Tumor detection. |
 | [![](https://img.shields.io/badge/-Technical%20Support-000)](https://github.com/ai-mohamed-mamdouh/Technical-Support.git) | ![](https://img.shields.io/badge/NLP_Basics-FF6F00) | An automated system that routes emails, assigns priority, and estimates resolution time . |
+| [![](https://img.shields.io/badge/-ABSA%20-000)](https://github.com/ai-mohamed-mamdouh/DeepX-Hackathon-2026) | ![](https://img.shields.io/badge/NLP-FF6F00) | DeepX-Hackathon-2026 ( NLP ) |
 
 <br>
 <hr/>
