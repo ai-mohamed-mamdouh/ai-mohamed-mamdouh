@@ -62,6 +62,15 @@
   <h1>🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤</h1>
   
   <br>
+  <img src="Tic%20Tac%20Hamor.jpg"/>
+  <br>
+  <h3>1st 𝑷𝒍𝒂𝒄𝒆e</h3>
+  <p>
+ AI Hackathon
+ CREATIVA-ITIDA-TIEC , Orange Digital Center , INSTANT Software Solutions
+</p>
+  
+  <br>
   <img src="https://media.licdn.com/dms/image/v2/D4E22AQGJmUqumrmJ9w/feedshare-shrink_2048_1536/B4EZT.s.3dH0Ao-/0/1739439995821?e=1765411200&v=beta&t=R4_MjY47DxqQRp1g8r3gqY3CKbKEbAr_ht5esNPsNo8" height="350" alt="Benha Hackathon"/>
   <br>
   <h3>𝟑𝒓𝒅 𝑷𝒍𝒂𝒄𝒆e</h3>
