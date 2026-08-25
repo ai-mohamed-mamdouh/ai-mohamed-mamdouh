@@ -62,7 +62,9 @@
   <h1>🏆 𝔸𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤</h1>
   
   <br>
-  <img src="Tic%20Tac%20Hamor.jpg"/>
+    <p align="center">
+    <img src="Final%20Tic%20Tac%20Poster.jpg" alt="Tic Tac Banner" width="500">
+    </p>
   <br>
   <h3>1st 𝑷𝒍𝒂𝒄𝒆e</h3>
   <p>
